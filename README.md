@@ -18,7 +18,9 @@ A goal of the technique is to reduce the impact of internal and external interru
 
 info: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-🍝🍝🍝 Instructions 🍝🍝🍝
+
+# 🍝🍝🍝 Instructions 🍝🍝🍝
+
 
 1. Git Clone the Pomodoro Repository to your PC
 
