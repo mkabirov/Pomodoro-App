@@ -23,27 +23,27 @@ info: https://en.wikipedia.org/wiki/Pomodoro_Technique
 # 🍝🍝🍝 Instructions 🍝🍝🍝
 
 
-# 1. Git Clone the Pomodoro Repository to your PC
+ 1. Git Clone the Pomodoro Repository to your PC
 
 <img width="1045" alt="Screen Shot 2020-03-04 at 10 50 58 AM" src="https://user-images.githubusercontent.com/53323295/75912652-683f1200-5e06-11ea-90be-a813cae0fca4.png">
 
 
-# 2. Open the folder
-# 3. Open index.html with your Web Browser
+ 2. Open the folder
+ 3. Open index.html with your Web Browser
 
 <img width="799" alt="Screen Shot 2020-03-04 at 10 55 05 AM" src="https://user-images.githubusercontent.com/53323295/75913011-f9ae8400-5e06-11ea-91d3-29f59c73fd4b.png">
 
-# 4. Here's an app - you can run it
+ 4. Here's an app - you can run it
 
 <img width="711" alt="Screen Shot 2020-03-04 at 10 31 25 AM" src="https://user-images.githubusercontent.com/53323295/75911017-b999d200-5e03-11ea-8405-690fa7ae3fc6.png">
 
 
-# 5. Just hit the play button - the timer will start to count default 25 minutes 
+ 5. Just hit the play button - the timer will start to count default 25 minutes 
 
 <img width="718" alt="Screen Shot 2020-03-04 at 10 36 15 AM" src="https://user-images.githubusercontent.com/53323295/75911783-f1ede000-5e04-11ea-993d-a3a442906279.png">
 
-# 6. You can adjust to have the desired time of work and break sessions
+ 6. You can adjust to have the desired time of work and break sessions
 
 <img width="711" alt="Screen Shot 2020-03-04 at 10 44 34 AM" src="https://user-images.githubusercontent.com/53323295/75912302-d33c1900-5e05-11ea-88b5-ff4d83a4610b.png">
 
-# 7. Enjoy! 🍋
+ 7. Enjoy! 🍋
