@@ -1,5 +1,7 @@
 # Pomodoro App 
 
+The app is based on tutorial https://dev.to/albertomontalesi/tutorial-create-a-pomodoro-clock-with-javascript-13om 
+
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
 
 There are six steps in the original technique:
